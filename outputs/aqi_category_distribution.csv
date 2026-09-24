@@ -1,0 +1,7 @@
+AQI_Category,Observation_Count,Percentage
+Good,10,0.1
+Satisfactory,1134,11.34
+Moderate,2162,21.62
+Poor,2312,23.12
+Very Poor,2222,22.22
+Severe,2160,21.6
